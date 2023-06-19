@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="AccountInfoBackendAPI" groupId="com.choreo.integration.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/AccountInfoBackendAPI.xml</file>
+    </artifact>
+    <artifact name="AccountInfoBackendAPI_swagger" groupId="com.choreo.integration.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/AccountInfoBackendAPI_swagger.yaml</file>
+    </artifact>
+    <artifact name="AccountInfoBackendAPI_metadata" groupId="com.choreo.integration.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/AccountInfoBackendAPI_metadata.yaml</file>
+    </artifact>
+</artifacts>
